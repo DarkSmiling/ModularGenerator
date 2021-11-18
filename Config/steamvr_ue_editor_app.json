@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.modulargenerator-17735300.ue4editor.exe",
+			"app_key": "application.generated.ue.third-person-game-template-17735300.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/Enrique/Documents/Unreal_Projects/ModularGenerator/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "ModularGenerator-17735300 [UE Editor]"
+					"name": "Third Person Game Template-17735300 [UE Editor]"
 				}
 			}
 		}
